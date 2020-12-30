@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+.router-link-exact-active{
+    font-weight: bold;  
+}
+.card-product{
+    border-radius: 10px;
+}
+.card-img-top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
